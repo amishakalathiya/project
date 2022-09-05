@@ -1,0 +1,11 @@
+div{
+    /* background-color: rgb(231, 194, 231); */
+    color: rgb(27, 62, 157);
+}
+.btn{
+    background-color: rgb(21, 80, 132);
+    color: white;
+    padding: 5px 20px  5px 20px;
+    border: 2px groove rgb(48, 32, 3);
+    border-radius: 6px;
+}

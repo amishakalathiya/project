@@ -1,0 +1,64 @@
+{
+  "product": [
+    {
+      "id": 2,
+      "title": "samsung",
+      "price": "67000",
+      "image": "p1.jpg",
+      "description": "very good..."
+    },
+    {
+      "title": "vivo",
+      "price": "2500",
+      "description": "very good",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": 123,
+      "role_id": 1,
+      "id": 1
+    },
+    {
+      "name": "dhruvi",
+      "email": "dhruvi@gmail.com",
+      "password": 111,
+      "role_id": 2,
+      "id": 2
+    },
+    {
+      "name": "yashvi",
+      "email": "yashvi@gmail.com",
+      "password": "111",
+      "role_id": 2,
+      "id": 3
+    },
+    {
+      "name": "amisha",
+      "email": "amisha@gmail.com",
+      "password": "111",
+      "role_id": 2,
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
